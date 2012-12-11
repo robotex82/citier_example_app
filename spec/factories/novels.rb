@@ -2,5 +2,8 @@
 
 FactoryGirl.define do
   factory :novel do
+    author 'John Doe'
+    price 99
+    title 'Example pocket dictionary'
   end
 end

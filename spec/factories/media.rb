@@ -2,5 +2,6 @@
 
 FactoryGirl.define do
   factory :medium do
+    price 99
   end
 end

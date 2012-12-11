@@ -2,5 +2,8 @@
 
 FactoryGirl.define do
   factory :dictionary do
+    author 'John Doe'
+    price 99
+    title 'Example dicitionary'
   end
 end

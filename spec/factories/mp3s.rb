@@ -2,5 +2,7 @@
 
 FactoryGirl.define do
   factory :mp3 do
+    price 99
+    title 'Example Mp3'
   end
 end
