@@ -1,0 +1,2 @@
+class PocketDictionary < Dictionary
+end
